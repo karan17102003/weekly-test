@@ -1,0 +1,19 @@
+Hockey Stick (field hockey or ice hockey, depending on the type of hockey)
+Hockey Ball (field hockey) or Puck (ice hockey)
+Skates (for ice hockey) or Hockey Shoes/Cleats (for field hockey)
+Protective Gear (varies depending on the type of hockey, but may include):
+Shin Guards
+Helmet (with cage or shield for face protection in ice hockey)
+Shoulder Pads
+Elbow Pads
+Gloves
+Mouthguard
+Jockstrap or Pelvic Protector
+Uniform (jersey and shorts for field hockey, jersey and pants for ice hockey)
+Goalkeeper Equipment (additional gear for the goalie, including leg pads, a chest protector, a mask, and a catching glove)
+You can create a text file for hockey equipment in the desired folder with the information above. Make sure to specify whether it's field hockey or ice hockey, as the equipment can differ between the two variants of the sport.
+
+
+
+
+
